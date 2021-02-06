@@ -1,5 +1,5 @@
 # WebWar
 A basic War card game made using HTML/CSS and Javascript.
-<img src="/images/War1.png width="">
-<img src="/images/War2.png width="">
-<img src="/images/War3.png width="">
+![Sample 1](/images/War1.pngraw=true "Sample 1")
+![Sample 2](/images/War2.pngraw=true "Sample 2")
+![Sample 3](/images/War3.pngraw=true "Sample 3")
